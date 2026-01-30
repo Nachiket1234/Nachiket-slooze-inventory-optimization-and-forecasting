@@ -1,3 +1,4 @@
+```
 Slooze Inventory, Sales & Purchase Analysis
 Demand Forecasting and Inventory Optimization
 Overview
@@ -36,4 +37,6 @@ Track per-store demand variation for localized stocking.
 
 
 Overall Impact
+
 Implementation could reduce stockouts/overstock, cut holding costs 15–25%, and improve cash flow via targeted supplier negotiations → higher profitability and customer satisfaction.
+```
