@@ -1,0 +1,23 @@
+# Core data processing & analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning & preprocessing
+scikit-learn>=1.2.0
+
+# Deep Learning
+tensorflow>=2.12.0          # for LSTM and LSTM+Attention
+torch>=2.0.0                # for Transformer model
+torchvision>=0.15.0         # often installed together with torch (optional but safe)
+
+# Optional / nice to have (used in some explorations or utilities)
+tqdm>=4.65.0                # progress bars
+jupyter>=1.0.0              # if running in classic Jupyter
+notebook>=7.0.0             # modern JupyterLab / notebook support
+
+# If you ever want to try Prophet again (commented out by default)
+# prophet>=1.1.5
