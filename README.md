@@ -1,8 +1,9 @@
-# Slooze Challenge: Inventory, Sales & Purchase Analysis and Optimization
-
-**Submitted by: Nachiket**  
-**Date: January 2026**
-
+# Slooze Challenge: Inventory, Sales & Purchase Analysis, Optimization and Forecasting
+```
+Submitted by: Nachiket N Doddamani
+CSE Core student at Indian Intstitute of Information Technology (IIIT), Nagpur
+Date: January 2026**
+```
 ## Project Overview
 
 This repository contains a complete, end-to-end data analytics solution for the Slooze take-home challenge. The goal is to analyze sales, purchase, and inventory data for a wine & spirits retail company to optimize inventory management, forecast demand, identify key trends, and improve procurement efficiency.
